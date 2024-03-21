@@ -1,0 +1,10 @@
+{
+  "name": "Visual Assist Theme",
+  "version": "0.0.1",
+  "authors": ["Andy Duplain <trojanfoe@gmail.com>"],
+  "description": "Visual Assist Dark Theme",
+  "repository": "https://github.com/trojanfoe/visual_assist_dark.zed",
+  "themes": {
+    "VScode Dark Plus": "themes/visual_assist_dark.json"
+  }
+}
