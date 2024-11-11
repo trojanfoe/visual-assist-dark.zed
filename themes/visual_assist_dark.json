@@ -15,7 +15,7 @@
         "border.disabled": null,
         "elevated_surface.background": null,
         "surface.background": null,
-        "background": "#1e1e1e",
+        "background": "#202020",
         "element.background": null,
         "element.hover": null,
         "element.active": null,
@@ -39,22 +39,22 @@
         "icon.accent": null,
         "status_bar.background": "#303030",
         "title_bar.background": null,
-        "toolbar.background": "#1e1e1e",
+        "toolbar.background": "#202020",
         "tab_bar.background": null,
         "tab.inactive_background": null,
         "tab.active_background": null,
         "search.match_background": null,
-        "panel.background": null,
+        "panel.background": "#202020",
         "panel.focused_border": null,
         "pane.focused_border": null,
         "scrollbar_thumb.background": null,
         "scrollbar.thumb.hover_background": null,
         "scrollbar.thumb.border": null,
-        "scrollbar.track.background": "#1e1e1e",
+        "scrollbar.track.background": "#202020",
         "scrollbar.track.border": null,
         "editor.foreground": "#BDB76B",
-        "editor.background": "#1e1e1e",
-        "editor.gutter.background": "#1e1e1e",
+        "editor.background": "#202020",
+        "editor.gutter.background": "#202020",
         "editor.subheader.background": null,
         "editor.active_line.background": null,
         "editor.highlighted_line.background": null,
@@ -65,7 +65,7 @@
         "editor.active_wrap_guide": null,
         "editor.document_highlight.read_background": null,
         "editor.document_highlight.write_background": null,
-        "terminal.background": "#1e1e1e",
+        "terminal.background": "#202020",
         "terminal.foreground": null,
         "terminal.bright_foreground": null,
         "terminal.dim_foreground": null,
@@ -104,20 +104,20 @@
         "deleted.background": null,
         "deleted.border": null,
         "error": "#d16969",
-        "error.background": "#1e1e1e",
-        "error.border": "#1e1e1e",
+        "error.background": "#202020",
+        "error.border": "#202020",
         "hidden": null,
         "hidden.background": null,
         "hidden.border": null,
         "hint": "#969696ff",
         "hint.background": "#0e0e0e",
-        "hint.border": "#1e1e1e",
+        "hint.border": "#202020",
         "ignored": "#808080",
         "ignored.background": null,
         "ignored.border": null,
         "info": "#9cdcfe",
         "info.background": "#0e0e0e",
-        "info.border": "#1e1e1e",
+        "info.border": "#202020",
         "modified": "#d7ba7d",
         "modified.background": null,
         "modified.border": null,
@@ -135,8 +135,19 @@
         "unreachable.border": null,
         "warning": "#d7ba7d",
         "warning.background": "#0e0e0e",
-        "warning.border": "#1e1e1e",
-        "players": [],
+        "warning.border": "#202020",
+        "players": [
+          {
+            "cursor": "#569CD6",
+            "background": "#202020",
+            "selection": "#606060"
+          },
+          {
+            "cursor": "#ff8000",
+            "background": "#202020",
+            "selection": "#808080"
+          }
+        ],
         "syntax": {
           "attribute": {
             "color": "#C8C8C8",
@@ -161,17 +172,17 @@
           "constant": {
             "color": "#569CD6",
             "font_style": "normal",
-            "font_weight": 900
+            "font_weight": 600
           },
           "constructor": {
             "color": "#ff8000",
             "font_style": "normal",
-            "font_weight": 900
+            "font_weight": 600
           },
           "function": {
             "color": "#ff8000",
             "font_style": "normal",
-            "font_weight": 900
+            "font_weight": 600
           },
           "keyword": {
             "color": "#D8A0DF",
