@@ -1,6 +1,6 @@
 id = "visual-assist-dark"
 name = "Visual Assist Dark Theme"
-version = "0.0.4"
+version = "0.0.5"
 schema_version = 1
 authors = ["Andy Duplain <trojanfoe@gmail.com>"]
 description = "Visual Assist Dark Theme"

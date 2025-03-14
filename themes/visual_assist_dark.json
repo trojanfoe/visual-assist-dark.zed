@@ -1,5 +1,5 @@
 {
-  "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
   "name": "Visual Assist Dark",
   "author": "Andy Duplain <trojanfoe@gmail.com>",
   "themes": [
@@ -150,9 +150,9 @@
         ],
         "syntax": {
           "attribute": {
-            "color": "#C8C8C8",
+            "color": "#d6abdb",
             "font_style": null,
-            "font_weight": null
+            "font_weight": 400
           },
           "boolean": {
             "color": "#569CD6",
@@ -260,9 +260,9 @@
             "font_weight": null
           },
           "tag": {
-            "color": "#68685B",
+            "color": "#D8A0DF",
             "font_style": null,
-            "font_weight": null
+            "font_weight": 500
           },
           "text.literal": {
             "color": "#68685B",
